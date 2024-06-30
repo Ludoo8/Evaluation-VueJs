@@ -1,0 +1,47 @@
+export const clients = [
+  {
+    id: 1,
+    firstName: "Jean",
+    lastName: "Petit qui danse",
+    dateAdded: "2018-01-10",
+    role: "CEO",
+    phone: "+33 1 23 45 67 89",
+    email: "jean.petitquidanse@lumonindustries.com",
+    companyName: "Lumon Industries",
+    address1: "123 Rue de la Paix",
+    address2: "",
+    postalCode: "75002",
+    city: "Paris",
+    country: "France"
+  },
+  {
+    id: 2,
+    firstName: "Andrea",
+    lastName: "Notar",
+    dateAdded: "2024-10-10",
+    role: "CEO",
+    phone: "+33 6 23 66 67 6",
+    email: "andrea.notar@lumonindustries.com",
+    companyName: "Lumon Industries",
+    address1: "123 Rue de la Paix",
+    address2: "",
+    postalCode: "75002",
+    city: "Paris",
+    country: "France"
+  },
+  {
+    id: 3,
+    firstName: "Marc",
+    lastName: "Scout",
+    dateAdded: "2022-01-10",
+    role: "CEO",
+    phone: "+33 1 23 45 67 89",
+    email: "marc.scout@lumonindustries.com",
+    companyName: "Lumon Industries",
+    address1: "123 Rue de la Paix",
+    address2: "",
+    postalCode: "75002",
+    city: "Paris",
+    country: "France"
+  },
+]
